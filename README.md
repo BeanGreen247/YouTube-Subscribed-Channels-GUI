@@ -3,6 +3,9 @@ Python tool - YouTube Subscribed Channels GUI, lists user's subscribed channels 
 
 This app is a GUI-based tool that displays a list of subscribed channels on YouTube, along with the date they were subscribed and the time since they were subscribed. The user can search for specific channels using a search bar, and the results will be displayed in a table. The user can navigate through the search results using previous and next buttons. The app uses the Google API libraries to authenticate the user and access their subscribed channels. 
 
+![image](https://github.com/BeanGreen247/YouTube-Subscribed-Channels-GUI/assets/46648569/41d4bdfb-1670-4293-9a29-446a0492264c)
+
+
 To use this app, follow these steps:
 
 Get the credentials.json file from Google Cloud Platform, follow these steps:
